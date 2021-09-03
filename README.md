@@ -12,3 +12,4 @@ Using the voltage-current relation of the inductor, the stored energy can also b
 
 w(t)=  1/2 Li^2 (t)    (3)
 
+![1](/images/1.png) 
